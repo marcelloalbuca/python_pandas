@@ -9,3 +9,4 @@ data = pd.DataFrame(base)
 
 print(data)
 
+print(data.dtypes)
